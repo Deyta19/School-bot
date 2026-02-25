@@ -4,6 +4,7 @@ Ini adalah bot yang membantu murid-murid untuk mengingat/mengetahui jadwal kelas
 ## Alat yang akan saya gunakan untuk mengerjakan ide:
 > Discord.py
 > Discord Button
+> database.py
 
 ## Proyek ini akan berisi:
 > Elemen interaktif—tombol yang akan memudahkan siswa berinteraksi dengannya.
